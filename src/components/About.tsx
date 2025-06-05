@@ -28,7 +28,7 @@ const About: React.FC<AboutProps> = ({ data, achievements }) => {
               <div className="relative">
                 <div className="w-80 h-80 rounded-2xl overflow-hidden border-4 border-gradient-to-r from-blue-500 to-cyan-500 shadow-2xl">
                   <img 
-                    src="./profile.jpg" 
+                    src="/EFO/profile.jpg" 
                     alt="Eduardo Fernández Ortiz - Project Director"
                     className="w-full h-full object-cover"
                   />
