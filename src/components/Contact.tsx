@@ -232,7 +232,7 @@ const Contact: React.FC<ContactProps> = ({ data }) => {
         <div className="container mx-auto px-4">
           <div className="max-w-6xl mx-auto text-center">
             <p className="text-slate-400 text-sm">
-              © 2024 {data.full_name}. All rights reserved. | {data.current_title}
+              © 2025 {data.full_name}. All rights reserved. | {data.current_title}
             </p>
           </div>
         </div>
